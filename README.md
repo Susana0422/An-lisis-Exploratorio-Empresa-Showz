@@ -2,8 +2,7 @@
 
 Goal: optimize marketing expenses for Showz company
 
-Description: The project focused on analyzing a dataset for Showz company. Records are available from January 2017 to December 2018.The dataset included platform,year_of_release,genre,na_sales,eu_sales,jp_sales,other_sales,critic_score,user_score,rating and rating_name. 
-
+Description: The project focused on analyzing a dataset for Showz company. Records are available from January 2017 to December 2018.
 
 The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA)
 
