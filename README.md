@@ -1,5 +1,8 @@
 # 🌁 Análisis Exploratorio Empresa Showz
 
+![tickets](https://github.com/user-attachments/assets/7ff3a17f-06e2-42d9-884f-81d2631fd3cf)
+
+
 Goal: optimize marketing expenses for Showz company
 
 Description: The project focused on analyzing a dataset for Showz company. Records are available from January 2017 to December 2018.
