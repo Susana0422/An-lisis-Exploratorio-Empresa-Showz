@@ -3,17 +3,33 @@
 ![tickets](https://github.com/user-attachments/assets/7ff3a17f-06e2-42d9-884f-81d2631fd3cf)
 
 
-Goal: optimize marketing expenses for Showz company
+## 📌 Goal
 
-Description: The project focused on analyzing a dataset for Showz company. Records are available from January 2017 to December 2018.
+Optimize marketing expenses for Showz company
+
+---
+
+## 📄 Description
+
+The project focused on analyzing a dataset for Showz company. Records are available from January 2017 to December 2018.
 
 The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA)
 
-Skills: data cleaning, data analysis, correlation matrices, data visualization.
+---
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+## 🧠 Skills Applied
 
-Results:
+Data cleaning, data analysis, correlation matrices, data visualization.
+
+ ---
+
+## 🛠️ Technologies Used
+
+Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+---
+
+## 📊 Key Results
 
 - It is evident that the Showz company is not profitable because the CAC is higher than the LTV, users only buy events when it is necessary so there is no stay of more than one month on the page.
 - No cohort was worthwhile because none is one or greater than one. The average purchase size is: $6.90
